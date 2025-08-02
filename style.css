@@ -226,9 +226,6 @@ p a{
   
 }
 @media (max-width: 390px) {
-  .main a{
-   display: none;
-  }
   .social p a {
     font-size: 15px;
     margin-right:15px ;
@@ -246,4 +243,5 @@ p a{
   .logo img{
     height: 300px;
   }
+
 }
