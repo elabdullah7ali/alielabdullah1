@@ -245,3 +245,18 @@ p a{
   }
 
 }
+@media (max-width: 371px) {
+  .social {
+    align-items: stretch;
+    text-align: center;
+    gap: 15px;
+  }
+
+  .social ul {
+    justify-content: center;
+  }
+
+  .social p {
+    font-size: 16px;
+  }
+}
